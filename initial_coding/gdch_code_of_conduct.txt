@@ -1,0 +1,59 @@
+Statement: The GDCh obligates itself and its members to defend freedom, tolerance, and truthfulness in science,
+Code: Freedom
+Code: Falsehood
+
+Statement: notably to raise chemistry’s reputation
+Code: Respectability
+
+Statement: as well as to protect and increase chemical knowledge and know-how.
+Code: Advance chemistry
+
+Statement: All GDCh members are aware that they as natural scientists are notably responsible for the impact of their professional activities to mankind and nature.
+Code: Duty to others
+Code: Sustainability/environment
+
+Statement: GDCh and its members support and promote a sustainable and enduring development in society, economy and environment.
+Code: Sustainability/environment
+
+Statement: They always act with the awareness of their responsibility for future generations.
+Code: Duty to others
+
+Statement: They respect the existing legal framework and international conventions for their professional activities, results, and impact
+Code: Law-abiding
+
+Statement: and they fight against misuse of chemistry, e.g. for production of chemical weapons or drugs.
+Code: Dual use
+
+Statement: During development, application and dissemination of chemical knowledge they are obliged to truth,
+Code: Falsehood
+
+Statement: and they do not use unfair practices.
+Code: Fairness
+
+Statement: Members who infringe these principles affect the prestige of science and the chemical profession.
+Code: Respectability
+
+Statement: They might be suspended from GDCh.
+Code: Repercussions
+
+Statement: The above code of conduct is an inherent part of the GDCh statutes.
+Code: DISCARD (irrelevant)
+
+Statement: While joining the Gesellschaft Deutscher Chemiker each new society member is signing this code of conduct.
+Code: DISCARD (irrelevant)
+
+-----
+Total (ordered by frequency):
+Freedom: 1
+Falsehood: 2
+Respectability: 2
+Advance chemistry: 1
+Duty to others:
+    - public/the community/humankind (1)
+    - nature (1)
+    - future generations (1)
+Sustainability/environment: 2
+Law-abiding: 1
+Dual use: 1
+Fairness: 1
+Repercussions: 1

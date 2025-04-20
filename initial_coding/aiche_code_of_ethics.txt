@@ -1,0 +1,94 @@
+Statement: The Board of Directors of the American Institute of Chemical Engineers adopted this Code of Ethics to which it expects that the professional conduct of its members shall conform, and to which every applicant attests by signing his or her membership application.
+Code: DISCARD (general/tautological)
+
+Statement: Members of the American Institute of Chemical Engineers shall uphold and advance the integrity, honor and dignity of the engineering profession
+Code: Respectability
+
+Statement: by: being honest and impartial
+Code: Falsehood
+
+Statement: and serving with fidelity their employers, their clients, and the public;
+Code: Duty to others
+
+Statement: striving to increase the competence and prestige of the engineering profession;
+Code: Respectability
+
+Statement: and using their knowledge and skill for the enhancement of human welfare.
+Code: Duty to others
+
+Statement: To achieve these goals, members shall:
+Code: DISCARD (general/tautological)
+
+Statement: Hold paramount the safety, health and welfare of the public
+Code: Safety
+Code: Duty to others
+
+Statement: and protect the environment in performance of their professional duties.
+Code: Sustainability/environment
+
+Statement: Formally advise their employers or clients (and consider further disclosure, if warranted) if they perceive that a consequence of their duties will adversely affect the present or future health or safety of their colleagues or the public.
+Code: Duty to others
+Code: Reporting
+Code: Counsel
+
+Statement: Accept responsibility for their actions,
+Code: Responsibility
+
+Statement: seek and heed critical review of their work and offer objective criticism of the work of others.
+Code: Oversight
+
+Statement: Issue statements or present information only in an objective and truthful manner.
+Code: Falsehood
+
+Statement: Act in professional matters for each employer or client as faithful agents or trustees,
+Code: Duty to others
+
+Statement: avoiding conflicts of interest and never breaching confidentiality.
+Code: Conflict of interest
+
+Statement: Treat all colleagues and co-workers fairly and respectfully, recognizing their unique contributions and capabilities by fostering an environment of equity, diversity and inclusion.
+Code: Duty to others
+Code: Culture
+
+Statement: Perform professional services only in areas of their competence.
+Code: Competence
+
+Statement: Build their professional reputations on the merits of their services.
+Code: Falsehood
+Code: Competence
+
+Statement: Continue their professional development throughout their careers, and provide opportunities for the professional development of those under their supervision.
+Code: Education
+
+Statement: Never tolerate harassment.
+Code: Harassment
+
+Statement: Conduct themselves in a fair, honorable and respectful manner.
+Code: Respect
+Code: Fairness
+
+Statement: Violations of this code of ethics should be reported promptly to the AIChE President or Executive Director.
+Code: Reporting
+
+-----
+Total (ordered by frequency):
+Duty to others: 6
+    - employers (3)
+    - clients (3)
+    - public/the community/humankind (3)
+    - colleagues (1)
+Falsehood: 3
+Respectability: 2
+Reporting: 2
+Competence: 2
+Safety: 1
+Sustainability/environment: 1
+Counsel: 1
+Responsibility: 1
+Oversight: 1
+Conflict of interest: 1
+Culture: 1
+Education: 1
+Harassment: 1
+Respect: 1
+Fairness: 1
