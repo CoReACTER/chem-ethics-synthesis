@@ -39,7 +39,7 @@ Code: Attribution
 
 Statement: Undisclosed conflicts of interest and scientific misconduct, including fabrication, falsification, and plagiarism, are incompatible with this code.
 Code: Conflict of interest
-Code: Falsehood
+Code: Honesty
 Code: Attribution
 
 Statement: Chemical professionals should be aware of laws and regulations related to the professional conduct of science to ensure that their profession is practiced safely and appropriately.
@@ -63,7 +63,7 @@ Code: Respect
 
 Statement: and will not engage in discrimination, harassment, bullying, dishonesty, fraud, misrepresentation, coercive manipulation, censorship, or other misconduct. 
 Code: Fairness
-Code: Falsehood
+Code: Honesty
 Code: Open exchange
 
 Statement: Such actions apply to all professional, research, and learning environments, regardless of whether or not the action alters the content, veracity, or meaning of research findings, and regardless of whether or not the action affects the planning, conduct, reporting, or application of science.
@@ -121,7 +121,7 @@ Accuracy: 2
     - statements
     - records
 Fairness: 2
-Falsehood: 2
+Honesty: 2
 Sustainability/environment: 2
 Education: 2
 Respect: 1

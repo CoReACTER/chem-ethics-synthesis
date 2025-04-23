@@ -87,7 +87,7 @@ Code: Open exchange
 Code: Sustainability/environment
 
 Statement: Chemistry professionals should maintain honesty and integrity in all stages of the publication process,
-Code: Falsehood
+Code: Honesty
 
 Statement: which must meet the highest possible standards of data reproducibility and correctness without plagiarism.
 Code: Accuracy
@@ -174,7 +174,7 @@ Advance chemistry: 1
 Waste management: 1
 Quality control: 1
 Conflict of interest: 1
-Falsehood: 1
+Honesty: 1
 Reproducibility: 1
 Attribution: 1
 Peace: 1

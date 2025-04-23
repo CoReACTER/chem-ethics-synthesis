@@ -5,7 +5,7 @@ Statement: Members of the American Institute of Chemical Engineers shall uphold 
 Code: Respectability
 
 Statement: by: being honest and impartial
-Code: Falsehood
+Code: Honesty
 
 Statement: and serving with fidelity their employers, their clients, and the public;
 Code: Duty to others
@@ -38,7 +38,7 @@ Statement: seek and heed critical review of their work and offer objective criti
 Code: Oversight
 
 Statement: Issue statements or present information only in an objective and truthful manner.
-Code: Falsehood
+Code: Honesty
 
 Statement: Act in professional matters for each employer or client as faithful agents or trustees,
 Code: Duty to others
@@ -54,7 +54,7 @@ Statement: Perform professional services only in areas of their competence.
 Code: Competence
 
 Statement: Build their professional reputations on the merits of their services.
-Code: Falsehood
+Code: Honesty
 Code: Competence
 
 Statement: Continue their professional development throughout their careers, and provide opportunities for the professional development of those under their supervision.
@@ -77,7 +77,7 @@ Duty to others: 6
     - clients (3)
     - public/the community/humankind (3)
     - colleagues (1)
-Falsehood: 3
+Honesty: 3
 Respectability: 2
 Reporting: 2
 Competence: 2

@@ -1,6 +1,6 @@
 Statement: The GDCh obligates itself and its members to defend freedom, tolerance, and truthfulness in science,
 Code: Freedom
-Code: Falsehood
+Code: Honesty
 
 Statement: notably to raise chemistry’s reputation
 Code: Respectability
@@ -25,7 +25,7 @@ Statement: and they fight against misuse of chemistry, e.g. for production of ch
 Code: Dual use
 
 Statement: During development, application and dissemination of chemical knowledge they are obliged to truth,
-Code: Falsehood
+Code: Honesty
 
 Statement: and they do not use unfair practices.
 Code: Fairness
@@ -44,15 +44,15 @@ Code: DISCARD (irrelevant)
 
 -----
 Total (ordered by frequency):
-Freedom: 1
-Falsehood: 2
+Honesty: 2
 Respectability: 2
-Advance chemistry: 1
-Duty to others:
+Duty to others: 2
     - public/the community/humankind (1)
     - nature (1)
     - future generations (1)
 Sustainability/environment: 2
+Advance chemistry: 1
+Freedom: 1
 Law-abiding: 1
 Dual use: 1
 Fairness: 1
