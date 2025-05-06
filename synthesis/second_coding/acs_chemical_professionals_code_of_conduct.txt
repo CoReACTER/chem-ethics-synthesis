@@ -1,32 +1,11 @@
-Statement: The American Chemical Society expects its members to adhere to the highest ethical and safety standards.
-Code: DISCARD (generic/tautological; note "safety")
-
-Statement: Indeed, the Federal Charter of the Society (1937) explicitly lists among its objectives "the improvement of the qualifications and usefulness of chemists through high standards of professional ethics, education and attainments...”
-Code: DISCARD (generic/tautological; note "usefulness")
-
 Statement: The chemical professional endeavors to advance the broader chemistry enterprise and its practitioners for the benefit of Earth and its people
-Code: Advance chemistry
-
-Statement: and has obligations to the public, to colleagues, and to science.
-Code: Duty to others
-
-Statement: "The Chemist's Creed," was approved by the ACS Council in 1965.
-Code: DISCARD (irrelevant)
-
-Statement: The principles of The Chemist’s Code of Conduct were prepared by the Council Committee on Professional Relations, approved by the Council (March 16, 1994), and replaced "The Chemist's Creed".
-Code: DISCARD (irrelevant)
+Code: Respectability
 
 Statement: They were adopted by the Board of Directors (June 3, 1994) for the guidance of Society members in various professional dealings, especially those involving conflicts of interest.
 Code: Conflict of interest
 
-Statement: The Chemist’s Code of Conduct was updated and replaced by The Chemical Professional’s Code of Conduct to better reflect the changing times and current trends of the Society in 2007 and subsequently updated in 2012, 2016 and 2019.
-Code: DISCARD (irrelevant)
-
-Statement: The current version of The Chemical Professional Code of Conduct was approved by the ACS Council on August 28. 2019 and adopted by the ACS Council on December 6, 2019
-Code: DISCARD (irrelevant)
-
 Statement: Chemical professionals should seek to advance chemical science while striving for the highest standards of scientific integrity.
-Code: Advance chemistry
+Code: Advance knowledge
 
 Statement: This includes sharing ideas and information,
 Code: Open exchange
@@ -35,48 +14,46 @@ Statement: keeping accurate and complete records
 Code: Accuracy
 
 Statement: and giving due credit to the contributions of others.
-Code: Attribution
+Code: Fairness/respect
 
 Statement: Undisclosed conflicts of interest and scientific misconduct, including fabrication, falsification, and plagiarism, are incompatible with this code.
 Code: Conflict of interest
 Code: Honesty
-Code: Attribution
 
-Statement: Chemical professionals should be aware of laws and regulations related to the professional conduct of science to ensure that their profession is practiced safely and appropriately.
+Statement: Chemical professionals should be aware of laws and regulations related to the professional conduct of science
+Code: Law-abiding
+
+Statement: to ensure that their profession is practiced safely and appropriately.
 Code: Safety
 
 Statement: Chemical professionals should be actively concerned with the health and safety of co‐workers, consumers, and the community.
 Code: Safety
-Code: Duty to others
 
 Statement: Professionals have a responsibility to serve the public interest
-Code: Duty to others
+Code: Positive use
 
 Statement: and to further advance scientific knowledge.
-Code: Advance chemistry
+Code: Advance knowledge
 
 Statement: This includes ensuring that public comments are made with care and accuracy to avoid unsubstantiated, exaggerated, or premature statements.
-Code: Accuracy
+Code: Honesty
 
 Statement: Chemical professionals should treat others with respect
-Code: Respect
+Code: Fairness/respect
 
 Statement: and will not engage in discrimination, harassment, bullying, dishonesty, fraud, misrepresentation, coercive manipulation, censorship, or other misconduct. 
-Code: Fairness
+Code: Fairness/respect
 Code: Honesty
 Code: Open exchange
 
-Statement: Such actions apply to all professional, research, and learning environments, regardless of whether or not the action alters the content, veracity, or meaning of research findings, and regardless of whether or not the action affects the planning, conduct, reporting, or application of science.
-Code: DISCARD (qualification)
-
 Statement: Chemical professionals should take responsibility to act or intercede where possible to prevent misconduct.
-Code: Proactive
+Code: Oversight
 
 Statement: This includes reporting suspected research misconduct, as well as any discrimination, harassment, bullying, dishonesty, fraud, misrepresentation, coercive manipulation, or censorship.
 Code: Reporting
 
 Statement: Chemical professionals should be mindful of Implicit Bias and Unconscious Bias and strive to avoid all bias based on race, gender, age, religion, ethnicity, nationality, sexual orientation, gender expression, gender identity, presence of disabilities, educational background, or other personal attributes.
-Code: Fairness
+Code: Fairness/respect
 
 Statement: Chemical professionals should strive to do their work in ways that are safe
 Code: Safety
@@ -86,19 +63,13 @@ Code: Sustainability/environment
 
 Statement: This includes continuing to work to develop sustainable products and processes that protect the health, safety, and prosperity of future generations.
 Code: Sustainability/environment
-Code: Duty to others
 
 Statement: Chemical professionals should serve clients faithfully and incorruptibly, respect confidentiality, advise honestly, and charge fairly. 
-Code: Duty to others
-
-Statement: Additionally, they should promote and protect the legitimate interests of their employers,
-Code: Duty to others
+Code: Honesty
+Code: Fairness/respect
 
 Statement: comply with safety policies and procedures,
 Code: Safety
-
-Statement: fulfill obligations, and safeguard proprietary and confidential business information.
-Code: Duty to others
 
 Statement: Chemical professionals should strive for continual professional growth both personally and more broadly in the tutelage of others as a trust conferred by society.
 Code: Education
@@ -108,23 +79,18 @@ Code: Education
 
 -----
 Total (ordered by frequency):
-Duty to others: 7
-    - public/the community/humankind (3)
-    - colleagues/co-workers (2)
-    - science (1)
-    - future generations (1)
-    - clients (1)
-    - employers (2)
-Advance chemistry: 3
-Open exchange: 2
-Accuracy: 2
-    - statements
-    - records
-Fairness: 2
-Attribution: 2
-Honesty: 2
-Sustainability/environment: 2
-Education: 2
-Respect: 1
-Proactive: 1
-Reporting: 1
+- Fairness/respect: 5
+- Safety: 4
+- Honesty: 4
+- Advance knowledge: 2
+- Conflict of interest: 2
+- Education: 2
+- Sustainability/environment: 2
+- Open exchange: 2
+- Law-abiding: 1
+- Positive use: 1
+- Oversight: 1
+- Reporting: 1
+- Respectability: 1
+- Freedom: 0
+- Advising: 0

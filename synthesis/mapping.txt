@@ -1,0 +1,67 @@
+Accuracy: Honesty
+Advance chemistry: Advance knowledge
+Attribution: Honesty
+Conflict of interest: Conflict of interest
+Competence: Education
+Counsel: Advising
+Culture: REMOVE
+Dual use: Positive use
+Duty to others: SEE BELOW
+Education: Education
+Fairness: Fairness/respect
+Freedom: Freedom
+Harassment: Fairness/respect
+Honesty: Honesty
+Human rights: Freedom
+Law-abiding: Law-abiding
+Open Exchange: Open exchange
+Outreach: Advising
+Oversight: Oversight
+Peace: Positive use
+Proactive: REMOVE
+Quality Control: REMOVE
+Repercussions: REMOVE
+Reporting: Reporting
+Reproducibility: REMOVE
+Respect: Fairness/respect
+Respectability: Respectability
+Safety: Safety
+Security: Positive use
+Sustainability/environment: Sustainability/environment
+Waste management: Sustainability/environment
+
+Final codes:
+- Advance knowledge
+- Advising
+- Conflict of interest
+- Education
+- Fairness/respect
+- Freedom
+- Honesty
+- Law-abiding
+- Positive use
+- Open exchange
+- Oversight
+- Reporting
+- Respectability
+- Safety
+- Sustainability/environment
+
+Duty to Others:
+    - clients: clients
+    - colleagues/co-workers: colleagues
+    - employers: employers
+    - future generations: future generations
+    - nature: the environment
+    - science: science
+    - public/the community/humankind: the community
+    - the environment: the environment
+
+    Final codes:
+        - clients
+        - colleagues
+        - employers
+        - future generations
+        - science
+        - the community
+        - the environment

@@ -1,0 +1,152 @@
+Accuracy:
+    - Accurate records
+    - Accurate and precise public statements
+    - Accurate data
+    - Accurate communications
+Advance chemistry:
+    - Mainly advancing knowledge
+    - Some emphasis on practical knowledge, i.e., advancing chemistry's capacity 
+    - Positive perception <-- combine with respectability
+Attribution:
+    - Give credit to others
+    - Avoid plagiarism
+Conflict of interest:
+    - Avoid them
+Competence:
+    - Limit services to areas of competence
+    - Do not misrepresent competence
+Counsel:
+    - Provide information to government/decision-makers
+    - Specifically advise on industrial and environmental policy
+    - Promote "peaceful, beneficial" applications
+    - Advise employers, advocating on behalf of those to whom chemists are duty bound (e.g., the public)
+Dual use:
+    - Create culture of security
+    - Protect dual use substances and facilities
+    - Prevent misuse (e.g., chemical weapons, drugs)
+    - Be aware of possible dual-use risk
+Duty to others:
+    - See below
+Education:
+    - Strive for personal growth
+    - Teach others (trust conferred by society - duty to public again)
+    - Understand limits of knowledge
+    - Help public to understand chemistry
+    - Education should include environmental sustainability
+    - Chemistry education should enable chemical practitioners to meet their obligations
+Fairness:
+    - No discrimination, harassment, or bullying
+    - Avoid/mitigate bias, particularly bias surrounding protected classes/marginalized identities
+    - Largely unspecific; no "unfair practices"
+Freedom:
+    - Defend freedom (what freedoms?) and tolerance
+Harassment:
+    - Combine with fairness
+Honesty:
+    - Avoid fabrication, falsification (presumably of data/results), fraud, misrepresentation
+    - Honesty in public statements
+    - Honesty throughout scientific process - from development to application and dissemination
+Human rights:
+    - Combine with freedom
+Law-abiding:
+    - Respect existing legal framework
+    - Disseminate relevant legal and policy information
+    - Be aware of relevant laws and policies
+Open Exchange:
+    - Share ideas and information, including technological insights (i.e., both basic and applied results)
+    - Do not engage in censorship
+    - Share through scholarly publications, outreach
+    - Publications should specifically support sustainable development and other peaceful applications of chemistry
+    - Some overlap with "law-abiding"
+Outreach:
+    - Specifically engage on issues of environmental sustainability
+    - Outreach is a means to promote scientific knowledge
+Oversight:
+    - Reciprocal critique of scientific work
+    - Supervisors have an oversight role for subordinates, specifically
+    - Oversight should be conducted prior to publication
+    - Supervisors/management should also oversee and ensure safety and security
+    - Oversight as an ongoing process
+    - Oversight to prevent the misuse of chemical substances/facilities
+Peace:
+    - Actively and publicly promote peace and peaceful applications of chemistry
+Proactive:
+    - Intercede to prevent misconduct
+Quality Control:
+    - High quality results
+    - (Presumably) quality control in manufacturing settings
+Repercussions:
+    - Suspension from scientific community
+Reporting:
+    - Report suspected misconduct
+    - Report on possible health and safety risks
+    - Report violations of ethical code(s) to relevant authorities
+Reproducibility:
+    - Data should be reproducible
+Respect:
+    - Treat others with respect
+Respectability:
+    - Improve "honor" and prestige of chemical sciences
+    - Raise chemistry's reputation
+Safety: 
+    - Be aware of and abide by relevant laws and policies
+    - Look after the safety of others
+    - Work safely
+    - Act as role models for safety
+    - "Culture of safety"
+    - Use engineering and administrative controls
+    - Use appropriate personal protective equipment
+Security:
+    - Security to mitigate dual use risk
+    - All facilities should be able to secure chemicals
+    - Regular review and oversight of security
+    - "Culture of security"
+Sustainability/environment:
+    - Work in ways that are environmentally sustainable
+    - Develop sustainable processes and products
+    - Protect the environment
+    - Sustainable societal and economic development
+    - Integrate sustainability in research, education, and community engagement
+    - Develop appropriate environmental plans and policies
+    - Promote scientific information for the benefit of the environment
+    - Promote and seek to achieve UN SDGs
+Waste management:
+    - Ensure proper disposal of chemicals and equipment
+
+
+Duty to Others:
+    - clients
+        - Serve faithfully and without corruption
+        - Confidentiality
+        - Honesty
+        - "Charge fairly"
+        - Advise clients of health and safety risks
+    - colleagues/co-workers
+        - Generic "has obligations"
+        - Be concerned with and ensure their health and safety
+        - Treat them respectfully
+        - Recognize their uniqueness
+    - employers
+        - Support "legitimate interests"
+        - Protect confidential information
+        - Serve faithfully
+        - Advise on health and safety risks
+    - future generations
+        - Protect environment for them
+        - Balance their needs with the needs of the currently living
+        - Protect their "health, safety, and prosperity"
+        - Act with awareness of these future generations
+    - nature
+        - Comibine with "the environment"
+    - science
+        - Generic "obligations"
+    - public/the community/humankind
+        - Improve quality of life
+        - Create benefits for them
+        - Protect health and safety
+        - Meaningfully engage
+        - Serve the public interest and enhance welfare
+        - Chemists are responsible for how their work impacts the public
+    - the environment
+        - Protect for the benefit of future generations
+        - Also protect for its own benefit

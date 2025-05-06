@@ -1,0 +1,146 @@
+Statement: Chemical practitioners should promote a positive perception
+Code: Respectability
+
+Statement: public understanding and appreciation of chemistry.
+Code: Education
+
+Statement: Chemistry professionals should act as role models, mentors, and advocates of the safe and secure application of chemistry
+Code: Safety
+
+Statement: to benefit humankind
+Code: Positive use
+
+Statement: and preserve the environment for future generations.
+Code: Sustainability/environment
+
+Statement: They should instill and encourage curiosity and innovation early and often, and recognize and award achievements where appropriate.
+Code: Education
+
+Statement: Finally, chemistry professionals should provide professional inputs and opinions to government and other decision makers regarding industrial, environmental, and other issues.
+Code: Advising
+
+Statement: Environmental sustainability should be an integral part of research and education.
+Code: Sustainability/environment
+
+Statement: Chemistry professionals must use their expertise to ensure the safety and health of coworkers and the community,
+Code: Safety
+
+Statement: and to protect the environment for future generations.
+Code: Sustainability/environment
+
+Statement: Chemical practitioners should work within their organizations to help develop sound environmental plans and policies.
+Code: Sustainability/environment
+
+Statement: Chemistry professionals should encourage inclusion of environmental sustainability as a key element in chemistry instruction and engagement with the community.
+Code: Sustainability/environment
+Code: Education
+
+Statement: Chemical practitioners are responsible to ensure the proper use and disposal of chemicals and instruments.
+Code: Safety
+Code: Sustainability/environment
+
+Statement: They should endeavor to increase their knowledge of the short and long term effects of chemicals on the environment
+Code: Education
+Code: Sustainability/environment
+
+Statement: and to apply informed quality control principles.
+Code: Oversight
+
+Statement: Research in chemical sciences should benefit humankind and improve quality of life
+Code: Positive use
+
+Statement: while protecting the environment and preserving it for future generations.
+Code: Sustainability/environment
+
+Statement: Researchers should conduct their work with the highest integrity and transparency
+Code: Honesty
+
+Statement: avoid conflicts of interest
+Code: Conflict of interest
+
+Statement: Research should promote the exchange of new scientific and technological information and knowledge relating to the application of chemistry
+Code: Open exchange
+
+Statement: for the benefit of humankind and the environment.
+Code: Sustainability/environment
+
+Statement: Scientific publication is a way to share new knowledge.
+Code: Open exchange
+
+Statement: Chemistry professionals should promote and disseminate scientific knowledge in research and innovation through outreach, scientific writing
+Code: Open exchange
+
+Statement: and publication for sustainable development.
+Code: Open exchange
+Code: Sustainability/environment
+
+Statement: Chemistry professionals should maintain honesty and integrity in all stages of the publication process,
+Code: Honesty
+
+Statement: which must meet the highest possible standards of data reproducibility and correctness without plagiarism.
+Code: Honesty
+
+Statement: Chemistry professionals who supervise others have a responsibility to ensure that their scientific writings are free of defects and errors.
+Code: Oversight
+
+Statement: Chemistry professionals should promote peaceful, beneficial applications and uses of science and technology through a variety of media.
+Code: Advising
+Code: Positive use
+
+Statement: Chemistry professionals have a responsibility to assess information intended for release prior to dissemination.
+Code: Oversight
+
+Statement: A culture of safety is very important and should be sustained by management, including academic, industrial and government leadership.
+Code: Safety
+
+Statement: Management should work with chemical practitioners in all aspects of safety including training, regular audits and the development of safety culture.
+Code: Safety
+Code: Oversight
+
+Statement: There should always be awareness of safety regulations protecting health and the environment.
+Code: Safety
+Code: Sustainability/environment
+
+Statement: All chemical practitioners should exercise safety procedures.
+Code: Safety
+
+Statement: Engineering and administrative controls for safety should be in place.
+Code: Safety
+
+Statement: Proper personal protective equipment and garments should be used when working with chemicals or in an area with hazards.
+Code: Safety
+
+Statement: A culture of security is important to protect dual use chemicals and facilities.
+Code: Positive use
+Code: Oversight
+
+Statement: All stakeholders in the chemical supply chain should ensure and practice chemical security.
+Code: Oversight
+
+Statement: Chemical practitioners should ensure that laboratories and industrial facilities have the capacity to secure chemicals.
+Code: Oversight
+
+Statement: Security measures need to be reviewed regularly.
+Code: Oversight
+
+Statement: Management should have oversight of security and should follow all local and international laws and regulations.
+Code: Law-abiding
+Code: Oversight
+
+-----
+Total (ordered by frequency):
+- Sustainability/environment: 11
+- Safety: 9
+- Oversight: 9
+- Education: 4
+- Positive use: 4
+- Open exchange: 4
+- Honesty: 3
+- Advising: 2
+- Conflict of interest: 1
+- Law-abiding: 1
+- Respectability: 1
+- Freedom: 0
+- Reporting: 0
+- Fairness/respect: 0
+- Advance knowledge: 0

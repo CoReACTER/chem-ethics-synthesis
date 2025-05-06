@@ -1,0 +1,48 @@
+Statement: The GDCh obligates itself and its members to defend freedom, tolerance, and truthfulness in science,
+Code: Freedom
+Code: Honesty
+
+Statement: notably to raise chemistry’s reputation
+Code: Respectability
+
+Statement: as well as to protect and increase chemical knowledge and know-how.
+Code: Advance knowledge
+
+Statement: All GDCh members are aware that they as natural scientists are notably responsible for the impact of their professional activities to mankind and nature.
+Code: Sustainability/environment
+
+Statement: GDCh and its members support and promote a sustainable and enduring development in society, economy and environment.
+Code: Sustainability/environment
+
+Statement: They respect the existing legal framework and international conventions for their professional activities, results, and impact
+Code: Law-abiding
+
+Statement: and they fight against misuse of chemistry, e.g. for production of chemical weapons or drugs.
+Code: Positive use
+
+Statement: During development, application and dissemination of chemical knowledge they are obliged to truth,
+Code: Honesty
+
+Statement: and they do not use unfair practices.
+Code: Fairness/respect
+
+Statement: Members who infringe these principles affect the prestige of science and the chemical profession.
+Code: Respectability
+
+-----
+Total (ordered by frequency):
+- Sustainability/environment: 2
+- Honesty: 2
+- Respectability: 2
+- Advance knowledge: 1
+- Fairness/respect: 1
+- Freedom: 1
+- Law-abiding: 1
+- Positive use: 1
+- Advising: 0
+- Conflict of interest: 0
+- Education: 0
+- Open exchange: 0
+- Oversight: 0
+- Reporting: 0
+- Safety: 0

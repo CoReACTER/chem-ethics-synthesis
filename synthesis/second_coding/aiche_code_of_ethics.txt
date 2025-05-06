@@ -1,0 +1,66 @@
+Statement: Members of the American Institute of Chemical Engineers shall uphold and advance the integrity, honor and dignity of the engineering profession
+Code: Respectability
+
+Statement: by: being honest and impartial
+Code: Honesty
+
+Statement: striving to increase the competence and prestige of the engineering profession;
+Code: Respectability
+
+Statement: and using their knowledge and skill for the enhancement of human welfare.
+Code: Positive use
+
+Statement: Hold paramount the safety, health and welfare of the public
+Code: Safety
+
+Statement: and protect the environment in performance of their professional duties.
+Code: Sustainability/environment
+
+Statement: Formally advise their employers or clients (and consider further disclosure, if warranted) if they perceive that a consequence of their duties will adversely affect the present or future health or safety of their colleagues or the public.
+Code: Reporting
+Code: Advising
+
+Statement: seek and heed critical review of their work and offer objective criticism of the work of others.
+Code: Oversight
+
+Statement: Issue statements or present information only in an objective and truthful manner.
+Code: Honesty
+
+Statement: avoiding conflicts of interest and never breaching confidentiality.
+Code: Conflict of interest
+
+Statement: Treat all colleagues and co-workers fairly and respectfully, recognizing their unique contributions and capabilities by fostering an environment of equity, diversity and inclusion.
+Code: Fairness/respect
+
+Statement: Build their professional reputations on the merits of their services.
+Code: Honesty
+
+Statement: Continue their professional development throughout their careers, and provide opportunities for the professional development of those under their supervision.
+Code: Education
+
+Statement: Never tolerate harassment.
+Code: Fairness/respect
+
+Statement: Conduct themselves in a fair, honorable and respectful manner.
+Code: Fairness/respect
+
+Statement: Violations of this code of ethics should be reported promptly to the AIChE President or Executive Director.
+Code: Reporting
+
+-----
+Total (ordered by frequency):
+- Fairness/respect: 3
+- Honesty: 3
+- Respectability: 2
+- Reporting: 2
+- Advising: 1
+- Conflict of interest: 1
+- Education: 1
+- Positive use: 1
+- Oversight: 1
+- Safety: 1
+- Sustainability/environment: 1
+- Law-abiding: 0
+- Open exchange: 0
+- Freedom: 0
+- Advance knowledge: 0
